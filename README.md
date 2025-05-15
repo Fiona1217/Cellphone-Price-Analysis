@@ -15,7 +15,7 @@ Analyzed smartphones to uncover how hardware specifications (RAM, PPI, CPU, etc.
 ## 📂 Repository Contents
 | File | Description |  
 |-----|--------|  
-| `PriceLowestAndHighest.ipynb` | Full analysis with visualizations |  
+| `PriceAnalysis.ipynb` | Full analysis with visualizations |  
 | `Cellphone.csv` | Raw dataset |  
 | `README.md` | Project summary (current file) |  
 | `requirement.txt` | Python dependencies |
